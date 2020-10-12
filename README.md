@@ -21,4 +21,4 @@
 
 ## Демонстрация работы приложения в виде gif-картинки
 
-"# pizza-app" 
+![pizza app gif](https://github.com/moshonskiy/pizza-app/blob/main/src/assets/gif/pizza%20app.gif)
